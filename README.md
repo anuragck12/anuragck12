@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Python,JS,MySql**
 
-- 📫 How to reach me **anuragck22@gmail.com**
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
